@@ -1,4 +1,6 @@
-﻿namespace Infrastructure.Services.CsvReader
+﻿using Application.Features.Interfaces;
+
+namespace Infrastructure.Services.CsvReader
 {
     public class CsvImporterFacade
     {
