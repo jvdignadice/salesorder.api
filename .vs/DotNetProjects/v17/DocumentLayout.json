@@ -1,0 +1,1153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\DepartmentDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\DTOs\\DepartmentDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE44AF7-5FF8-4EA9-9B93-841A6A3143C1}|Infrastructure\\Infrastructure.csproj|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECE44AF7-5FF8-4EA9-9B93-841A6A3143C1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C29445-A116-4DCB-ACFC-C8151F15C866}|test.api.project.one\\test.api.project.one.csproj|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\test.api.project.one.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95C29445-A116-4DCB-ACFC-C8151F15C866}|test.api.project.one\\test.api.project.one.csproj|solutionrelative:test.api.project.one\\test.api.project.one.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/CBEN_F55MBHK_LX_JVSQLSERVER/test_db/True/SqlTable/dbo.Devices.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DB756-C738-4684-B8F0-31F6B8F374B6}|Application\\Application.csproj|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B5DB756-C738-4684-B8F0-31F6B8F374B6}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4CF08E-1729-4FAC-9D0F-C1B5A6E2E8A2}|Domain\\Domain.csproj|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B4CF08E-1729-4FAC-9D0F-C1B5A6E2E8A2}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\ProjectDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\DTOs\\ProjectDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDevice\\CreateDeviceCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\CreateDevice\\CreateDeviceCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateProject\\CreateProjectHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\CreateProject\\CreateProjectHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateProject\\CreateProjectsCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\CreateProject\\CreateProjectsCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateUser\\CreateUserCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\CreateUser\\CreateUserCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\DTOs\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\DeviceDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\DTOs\\DeviceDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDepartment\\DepartmentCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\CreateDepartment\\DepartmentCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.api.project.one\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.api.project.one\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllUser\\UserGetAllQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Queries\\GetAllUser\\UserGetAllQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllUser\\GetAllUserHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Queries\\GetAllUser\\GetAllUserHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\DependencyInjection\\AppDependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\DependencyInjection\\AppDependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\UnitOfWork\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\UnitOfWork\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\Device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.api.project.one\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\DeviceRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Repositories\\DeviceRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251010092104_TokenInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251010092104_TokenInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDevice\\CreateDeviceHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\CreateDevice\\CreateDeviceHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.api.project.one\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Persistence\\TestAppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Persistence\\TestAppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\TokenInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\TokenInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Identity\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Identity\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Automapper\\AutoMapperProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.api.project.one\\Automapper\\AutoMapperProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\DepartmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.api.project.one\\Controllers\\DepartmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\DeviceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.api.project.one\\Controllers\\DeviceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\ProjectRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Repositories\\ProjectRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\DepartmentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Repositories\\DepartmentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDepartment\\DepartmentCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\CreateDepartment\\DepartmentCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Services\\GenerateToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Services\\GenerateToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IDepartmentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Interfaces\\IDepartmentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\AppLoginAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\AppLoginAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\AppLoginRepsonse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\AppLoginRepsonse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\test.api.project.one.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.api.project.one\\test.api.project.one.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test.api.project.one\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IDeviceRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Interfaces\\IDeviceRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251008093907_AddProjectsTbale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251008093907_AddProjectsTbale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IProjectRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Interfaces\\IProjectRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251008100435_UpdatesDeviceTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251008100435_UpdatesDeviceTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251008090350_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251008090350_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateUser\\CreateUserHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Commands\\CreateUser\\CreateUserHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Benifits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\Benifits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetUser\\GetUserById.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Queries\\GetUser\\GetUserById.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetUser\\GetUserByIdHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Features\\Queries\\GetUser\\GetUserByIdHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectDto.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\ProjectDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\DTOs\\ProjectDto.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\ProjectDto.cs",
+              "RelativeToolTip": "Application\\Features\\DTOs\\ProjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:40:39.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateDeviceCommand.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDevice\\CreateDeviceCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\CreateDevice\\CreateDeviceCommand.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDevice\\CreateDeviceCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\CreateDevice\\CreateDeviceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:53:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProjectHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateProject\\CreateProjectHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\CreateProject\\CreateProjectHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateProject\\CreateProjectHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\CreateProject\\CreateProjectHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:42:50.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProjectsCommand.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateProject\\CreateProjectsCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\CreateProject\\CreateProjectsCommand.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateProject\\CreateProjectsCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\CreateProject\\CreateProjectsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:40:11.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:44:28.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RemoveDepartmentCommand.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentCommand.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:28:00.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RemoveDeviceCommand.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceCommand.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:48:21.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateDepartmentCommand.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentCommand.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:22:43.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateDepartmentHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\UpdateDepartment\\UpdateDepartmentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:23:01.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateDeviceCommand.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceCommand.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:08:42.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Application\\Features\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:47:56.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeviceDto.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\DeviceDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\DTOs\\DeviceDto.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\DeviceDto.cs",
+              "RelativeToolTip": "Application\\Features\\DTOs\\DeviceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:40:25.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentDtos.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\DepartmentDtos.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\DTOs\\DepartmentDtos.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\DTOs\\DepartmentDtos.cs",
+              "RelativeToolTip": "Application\\Features\\DTOs\\DepartmentDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:04:55.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentCommand.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDepartment\\DepartmentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\CreateDepartment\\DepartmentCommand.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDepartment\\DepartmentCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\CreateDepartment\\DepartmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T02:14:06.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Project.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "Domain\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:13:10.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Program.cs",
+              "RelativeDocumentMoniker": "test.api.project.one\\Program.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Program.cs",
+              "RelativeToolTip": "test.api.project.one\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:22:18.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "test.api.project.one\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\UserController.cs",
+              "RelativeToolTip": "test.api.project.one\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:43:36.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserGetAllQuery.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllUser\\UserGetAllQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\GetAllUser\\UserGetAllQuery.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllUser\\UserGetAllQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\GetAllUser\\UserGetAllQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T01:52:16.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAllUserHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllUser\\GetAllUserHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\GetAllUser\\GetAllUserHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllUser\\GetAllUserHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\GetAllUser\\GetAllUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T01:53:14.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Features\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T01:54:56.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:29:49.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDependencyInjection.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\DependencyInjection\\AppDependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection\\AppDependencyInjection.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\DependencyInjection\\AppDependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection\\AppDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:22:11.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:26:22.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Device.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Device.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Device.cs",
+              "RelativeToolTip": "Domain\\Entities\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:34:27.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\appsettings.json",
+              "RelativeDocumentMoniker": "test.api.project.one\\appsettings.json",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\appsettings.json",
+              "RelativeToolTip": "test.api.project.one\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T03:13:01.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T07:29:55.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeviceRepository.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\DeviceRepository.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\DeviceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:54:08.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20251010092104_TokenInfo.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251010092104_TokenInfo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251010092104_TokenInfo.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251010092104_TokenInfo.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251010092104_TokenInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:21:04.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateDeviceHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDevice\\CreateDeviceHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\CreateDevice\\CreateDeviceHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDevice\\CreateDeviceHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\CreateDevice\\CreateDeviceHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:53:22.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "test.api.project.one\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "test.api.project.one\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:53:56.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TestAppDbContext.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Persistence\\TestAppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\TestAppDbContext.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Persistence\\TestAppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\TestAppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA6wBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:57:24.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TokenInfo.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\TokenInfo.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TokenInfo.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\TokenInfo.cs",
+              "RelativeToolTip": "Domain\\Entities\\TokenInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:54:40.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:18:46.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Automapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "test.api.project.one\\Automapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Automapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "test.api.project.one\\Automapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:17:11.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "test.api.project.one\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "test.api.project.one\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:13:46.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "test.api.project.one\\Controllers\\DeviceController.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "test.api.project.one\\Controllers\\DeviceController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwDoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:55:13.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:45:31.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:28:49.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DepartmentCommandHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDepartment\\DepartmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\CreateDepartment\\DepartmentCommandHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateDepartment\\DepartmentCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\CreateDepartment\\DepartmentCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T02:15:05.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GenerateToken.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Services\\GenerateToken.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GenerateToken.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Services\\GenerateToken.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GenerateToken.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:23:54.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Application\\Features\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T02:16:03.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppLoginAccount.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\AppLoginAccount.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AppLoginAccount.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\AppLoginAccount.cs",
+              "RelativeToolTip": "Domain\\Entities\\AppLoginAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:19:05.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppLoginRepsonse.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\AppLoginRepsonse.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AppLoginRepsonse.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\AppLoginRepsonse.cs",
+              "RelativeToolTip": "Domain\\Entities\\AppLoginRepsonse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:19:50.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "test.api.project.one.http",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\test.api.project.one.http",
+              "RelativeDocumentMoniker": "test.api.project.one\\test.api.project.one.http",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\test.api.project.one.http",
+              "RelativeToolTip": "test.api.project.one\\test.api.project.one.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-07T07:32:05.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Infrastructure\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Infrastructure\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T06:56:55.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "test.api.project.one\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\Properties\\launchSettings.json",
+              "RelativeToolTip": "test.api.project.one\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T04:51:26.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RemoveDepartmentHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\RemoveDepartment\\RemoveDepartmentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:27:25.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.api.project.one.csproj",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\test.api.project.one.csproj",
+              "RelativeDocumentMoniker": "test.api.project.one\\test.api.project.one.csproj",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\test.api.project.one.csproj",
+              "RelativeToolTip": "test.api.project.one\\test.api.project.one.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T07:29:53.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetAllDepartmentQuery.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentQuery.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:30:59.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetAllDepartmentHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\GetAllDepartment\\GetAllDepartmentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:31:36.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UpdateDeviceHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\UpdateDevice\\UpdateDeviceHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T00:58:32.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IDeviceRepository.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IDeviceRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Interfaces\\IDeviceRepository.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IDeviceRepository.cs",
+              "RelativeToolTip": "Application\\Features\\Interfaces\\IDeviceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:54:36.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20251008093907_AddProjectsTbale.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251008093907_AddProjectsTbale.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251008093907_AddProjectsTbale.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251008093907_AddProjectsTbale.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251008093907_AddProjectsTbale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:39:07.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GetAllDeviceQuery.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceQuery.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:19:00.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GetAllDeviceHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\GetAllDevice\\GetAllDeviceHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:20:30.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RemoveDeviceHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\RemoveDevice\\RemoveDeviceHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:50:01.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Interfaces\\IProjectRepository.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IProjectRepository.cs",
+              "RelativeToolTip": "Application\\Features\\Interfaces\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:44:29.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Application\\Features\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:44:08.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20251008100435_UpdatesDeviceTable.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251008100435_UpdatesDeviceTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251008100435_UpdatesDeviceTable.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251008100435_UpdatesDeviceTable.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251008100435_UpdatesDeviceTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:04:35.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Devices.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/CBEN_F55MBHK_LX_JVSQLSERVER/test_db/True/SqlTable/dbo.Devices.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/CBEN_F55MBHK_LX_JVSQLSERVER/test_db/True/SqlTable/dbo.Devices.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-08T10:01:45.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20251008090350_InitialMigration.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251008090350_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251008090350_InitialMigration.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Migrations\\20251008090350_InitialMigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251008090350_InitialMigration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:03:50.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateUser\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Commands\\CreateUser\\CreateUserHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Commands\\CreateUser\\CreateUserHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Commands\\CreateUser\\CreateUserHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:44:44.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:34:28.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Benifits.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Benifits.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Benifits.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Benifits.cs",
+              "RelativeToolTip": "Domain\\Entities\\Benifits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:34:24.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:33:59.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Domain\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Domain\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T07:30:42.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GetUserById.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetUser\\GetUserById.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\GetUser\\GetUserById.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetUser\\GetUserById.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\GetUser\\GetUserById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T02:08:12.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\appsettings.json",
+              "RelativeDocumentMoniker": "Domain\\appsettings.json",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\appsettings.json",
+              "RelativeToolTip": "Domain\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T07:30:31.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GetUserByIdHandler.cs",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetUser\\GetUserByIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Queries\\GetUser\\GetUserByIdHandler.cs",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Features\\Queries\\GetUser\\GetUserByIdHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Queries\\GetUser\\GetUserByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T02:09:08.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T07:29:21.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T07:23:24.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

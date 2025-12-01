@@ -1,0 +1,15 @@
+# @test.api.project.one_HostAddress = http://localhost:4000
+
+# GET {{test.api.project.one_HostAddress}}/weatherforecast/
+# Accept: application/json
+
+# ###
+
+POST {{test.api.project.one_HostAddress}}/user
+Content-Type: application/json
+
+{
+  //User
+}
+
+###

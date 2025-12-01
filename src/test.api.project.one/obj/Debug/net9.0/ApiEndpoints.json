@@ -1,0 +1,174 @@
+[
+  {
+    "ContainingType": "test.api.project.one.Controllers.ImportController",
+    "Method": "ImportCsv",
+    "RelativePath": "api/Import/import",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "test.api.project.one.Controllers.OrdersDetailController",
+    "Method": "GetAll",
+    "RelativePath": "api/OrdersDetail/GetAllOrder",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "test.api.project.one.Controllers.OrdersDetailController",
+    "Method": "RemoveOrder",
+    "RelativePath": "api/OrdersDetail/RemoveOrder",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Application.Features.DTOs.OrdersDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "test.api.project.one.Controllers.OrdersDetailController",
+    "Method": "UpdateOrder",
+    "RelativePath": "api/OrdersDetail/UpdateOrder",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ordersDetailDto",
+        "Type": "Application.Features.DTOs.OrdersDetailDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Entities.SalesOrder.OrderDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "test.api.project.one.Controllers.PizzaTypesController",
+    "Method": "GetAll",
+    "RelativePath": "api/PizzaTypes/GetAllPizza",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "test.api.project.one.Controllers.PizzaTypesController",
+    "Method": "RemoveDevice",
+    "RelativePath": "api/PizzaTypes/RemovePizza",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pizzaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Application.Features.DTOs.PizzaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "test.api.project.one.Controllers.PizzaTypesController",
+    "Method": "UpdateDevice",
+    "RelativePath": "api/PizzaTypes/UpdatePizza",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pizzaDto",
+        "Type": "Application.Features.DTOs.PizzaDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "pizzaId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Entities.Pizza.Pizza",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
