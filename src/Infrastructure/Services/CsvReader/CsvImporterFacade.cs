@@ -17,7 +17,6 @@ namespace Infrastructure.Services.CsvReader
 
         public async Task ImportAutoAsync(Stream csvStream)
         {
-            // Read only first line (header)
             using var reader = new StreamReader(csvStream, leaveOpen: true);
 
             var headerLine = await reader.ReadLineAsync();
@@ -28,16 +27,13 @@ namespace Infrastructure.Services.CsvReader
                                    .Select(h => h.Trim())
                                    .ToArray();
 
-            // Reset stream for actual processing
             csvStream.Position = 0;
 
-            // Detect the entity type
             var type = _detector.DetectCsvType(header);
 
             if (type == null)
                 throw new Exception("Unknown CSV format — no matching entity found.");
 
-            // Call importer using reflection
             var method = typeof(ICsvImporterService)
                 .GetMethod(nameof(ICsvImporterService.ImportAsync))
                 !.MakeGenericMethod(type);

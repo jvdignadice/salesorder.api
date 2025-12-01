@@ -131,13 +131,11 @@ public class CsvImporterService : ICsvImporterService
 
         if (underlying == typeof(DateOnly))
         {
-            // Example: "2025-12-01"
             return DateOnly.Parse(value, CultureInfo.InvariantCulture);
         }
 
         if (underlying == typeof(TimeOnly))
         {
-            // Example: "14:30:00"
             return TimeOnly.Parse(value, CultureInfo.InvariantCulture);
         }
 
