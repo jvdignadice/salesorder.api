@@ -52,3 +52,26 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+
+# Visual Studio cache
+.vs/
+
+# Visual Studio Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE
+.idea/
+
+# Additional ignores for .NET tooling
+stylecop.json
+*.DotSettings
+
+# IIS Express
+iisexpress/
