@@ -5,8 +5,8 @@ namespace Domain.Entities.Pizza
 {
     public class Pizza
     {
-        [CsvKey]
         public int Id { get; set; }
+        [CsvKey]
         public string pizza_id { get; set; }
         public string pizza_type_id { get; set; }
         public string size { get; set; }
