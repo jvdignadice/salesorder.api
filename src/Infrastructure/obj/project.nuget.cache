@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aYe2O8mNero=",
+  "dgSpecHash": "WSY7uXy9sWU=",
   "success": true,
-  "projectFilePath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jay.vee.g.dignadice\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\jay.vee.g.dignadice\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8M4qO7pGKD8=",
+  "dgSpecHash": "FL71G+PSwG8=",
   "success": true,
-  "projectFilePath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Application.csproj",
+  "projectFilePath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jay.vee.g.dignadice\\.nuget\\packages\\confluent.kafka\\2.12.0\\confluent.kafka.2.12.0.nupkg.sha512",
     "C:\\Users\\jay.vee.g.dignadice\\.nuget\\packages\\librdkafka.redist\\2.12.0\\librdkafka.redist.2.12.0.nupkg.sha512",

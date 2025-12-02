@@ -7004,11 +7004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\test.api.project.one.csproj",
+      "projectUniqueName": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\test.api.project.one\\test.api.project.one.csproj",
       "projectName": "test.api.project.one",
-      "projectPath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\test.api.project.one.csproj",
+      "projectPath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\test.api.project.one\\test.api.project.one.csproj",
       "packagesPath": "C:\\Users\\jay.vee.g.dignadice\\.nuget\\packages\\",
-      "outputPath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\obj\\",
+      "outputPath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\test.api.project.one\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7030,11 +7030,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Application.csproj": {
-              "projectPath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Application\\Application.csproj"
+            "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\Application\\Application.csproj": {
+              "projectPath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\Application\\Application.csproj"
             },
-            "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Infrastructure\\Infrastructure.csproj"
+            "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

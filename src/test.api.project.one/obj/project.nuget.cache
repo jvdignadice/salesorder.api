@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9M4U6izgI18=",
+  "dgSpecHash": "SHFTMJ3nrfo=",
   "success": true,
-  "projectFilePath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\test.api.project.one\\test.api.project.one.csproj",
+  "projectFilePath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\test.api.project.one\\test.api.project.one.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jay.vee.g.dignadice\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\jay.vee.g.dignadice\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

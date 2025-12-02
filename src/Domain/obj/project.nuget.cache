@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wt9ATTNSzgA=",
+  "dgSpecHash": "IIt4Nu8ejnU=",
   "success": true,
-  "projectFilePath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\JVDIGNADICE\\DesignPatterns\\DDD-Clean_Arc\\DotNetProjects\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
