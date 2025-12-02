@@ -3,6 +3,7 @@ using Application.Features.Interfaces;
 using Infrastructure.Repositories;
 using Infrastructure.Services;
 using Infrastructure.Services.CsvReader;
+using Infrastructure.Services.SalesAnalytics;
 using Infrastructure.UnitOfWork;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Configuration;
@@ -25,6 +26,7 @@ namespace Infrastructure.DependencyInjection
             services.AddScoped<CsvTypeDetector>();
             services.AddScoped<CsvImporterFacade>();
             services.AddScoped<ICsvImporterService, CsvImporterService>();
+            services.AddScoped<ISalesAnalyticsService, SalesAnalyticsService>();
 
             services.AddMediatR(cfg =>
             {
