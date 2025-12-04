@@ -1,11 +1,13 @@
 ﻿using Application.Features.Commands.CreateUser;
 using Application.Features.Interfaces;
+using Domain.Common.CsvHeader;
 using Infrastructure.Repositories;
 using Infrastructure.Services;
 using Infrastructure.Services.CsvReader;
 using Infrastructure.Services.SalesAnalytics;
 using Infrastructure.UnitOfWork;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
@@ -16,7 +18,7 @@ namespace Infrastructure.DependencyInjection
 {
     public static class AppDependencyInjection
     {
-        public static IServiceCollection AddInfrastructureServices(this IServiceCollection services)
+        public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
         {
 
             services.AddTransient<IUserRepository, UserRepository>();
@@ -27,6 +29,9 @@ namespace Infrastructure.DependencyInjection
             services.AddScoped<CsvImporterFacade>();
             services.AddScoped<ICsvImporterService, CsvImporterService>();
             services.AddScoped<ISalesAnalyticsService, SalesAnalyticsService>();
+            services.AddScoped<IHeaderService, HeaderService>();
+
+            services.Configure<HeaderSettings>(configuration.GetSection("Headers"));
 
             services.AddMediatR(cfg =>
             {

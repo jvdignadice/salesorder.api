@@ -30,7 +30,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
 
-builder.Services.AddInfrastructureServices();
+builder.Services.AddInfrastructureServices(builder.Configuration);
 builder.Services.AddControllers();
 builder.Services.AddAuthenticationAndAuthorization(builder.Configuration);
 builder.Services.AddSingleton<IKafkaProducer, KafkaProducer>();

@@ -1,25 +1,26 @@
-﻿namespace Infrastructure.Services.CsvReader
+﻿using Domain.Entities.Pizza;
+using Domain.Entities.SalesOrder;
+
+namespace Infrastructure.Services.CsvReader
 {
     public class CsvTypeDetector
     {
-        public Type? DetectCsvType(string[] csvHeader)
+        public Type? DetectCsvType(string[] csvHeader, IHeaderService headerService)
         {
-            foreach (var kv in CsvHeaderRegistry.Headers)
-            {
-                var expected = kv.Value;
+            var knownTypes = new[] { typeof(OrderDetails), typeof(Orders), typeof(PizzaType), typeof(Pizza) };
 
-                if (HeadersMatch(csvHeader, expected))
-                    return kv.Key;
+            foreach (var type in knownTypes)
+            {
+                var configuredHeaders = headerService.GetHeadersForType(type);
+
+                if (csvHeader.Length == configuredHeaders.Length &&
+                    csvHeader.All(h => configuredHeaders.Contains(h)))
+                {
+                    return type;
+                }
             }
 
             return null;
         }
-
-        private bool HeadersMatch(string[] actual, string[] expected)
-        {
-            return expected.All(e =>
-                actual.Contains(e, StringComparer.OrdinalIgnoreCase));
-        }
     }
-
 }
